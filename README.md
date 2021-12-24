@@ -1,6 +1,6 @@
 # Teste-automação utilizando a ferramenta selenium e seu recurso WebDriver.
 Os arquivos deste repositório foram feitos para testes do sistema do senai e do sistema feito no curso de frontend no senai Limeira.
- ## Os recursos permitem fazer tete de sistema automatizado.
+ ## Os recursos permitem fazer teste de sistema automatizado.
 
  ### Configuração de ambiente, passo a passo.
 
