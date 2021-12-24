@@ -11,7 +11,7 @@ Os arquivos deste repositório foram feitos para testes do sistema do senai e do
 
  * Instalar o [Apache Maven](https://maven.apache.org/download.cgi)
 
- * Fazer o dpwnload do [WebDriver](https://chromedriver.chromium.org/downloads) na versão compátivel com o seu navegador,colocar o arquivo dentro do diretório: C:\Program Files\chrome-driver.
+ * Fazer o download do [WebDriver](https://chromedriver.chromium.org/downloads) na versão compátivel com o seu navegador,colocar o arquivo dentro do diretório: C:\Program Files\chrome-driver.
 
 * Configuração das variáveis de ambiente:
   - 1° No menu do windows pesquise por variáveis de ambiente e clique em abrir.
